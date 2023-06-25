@@ -1,11 +1,11 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/6557614992yyzdpjnbwzbt
 
 Link to unlisted YouTube video:
 https://youtube.com/.....
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/13HH8s1AX1VUH2xnIwQUgIrzB-ozePX1mN5fEuRUm4Zg/edit?usp=sharing
 
 Project title:
 Blue-light Blocking Glasses Using Machine Learning
