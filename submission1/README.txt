@@ -11,9 +11,10 @@ Project title:
 Blue-light Blocking Glasses Using Machine Learning
 
 Group Number:
-5
+4
 
 Group Members:
 20101557 MOHAMMOD TAREQ AZIZ JUSTICE
 20241030 DRICIRU FIONA
 21301742 AJANI DENISH
+22373002 SUDIRGHA CHAKMA
