@@ -1,20 +1,19 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/6557614992yyzdpjnbwzbt
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/75c98KtADWQ
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Blue-Light Blocking Glasses Using Machine Learning
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
-
+https://docs.google.com/document/d/1JiWJZ8SACYOh5YfDTwwan7N9POpNbuJkjn1sGvAQ7s0/edit
 Group Number:
-0
+5
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20101557 MOHAMMOD TAREQ AZIZ JUSTICE
+20241030 DRICIRU FIONA
+21301742 AJANI DENISH
+22373002 SUDIRGHA CHAKMA
