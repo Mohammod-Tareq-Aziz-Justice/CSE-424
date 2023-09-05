@@ -1,35 +1,30 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
-
-Unlisted YouTube video:
-http://youtube....
+https://www.overleaf.com/6557614992yyzdpjnbwzbt
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/ICCITconf2023/Submission/Summary/310
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
-
-Paper presentation (anyone can view without login):
-http://slides.google.com/
+Blue-Light Blocking Glasses Using Machine Learning
 
 Paper submission date (to workshop/conference):
-25 October 1999
+05 September 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+310
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+ICCIT 2023
+26th International Conference on Computer And Information Technology
 
 Conference URL:
-http://confsite/...
+https://iccit.org.bd/2023/call-for-paper/
 
 Group Number:
-0
+5
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
+20101557 MOHAMMOD TAREQ AZIZ JUSTICE
+20241030 DRICIRU FIONA
+21301742 AJANI DENISH
+22373002 SUDIRGHA CHAKMA
