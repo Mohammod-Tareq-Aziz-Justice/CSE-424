@@ -1,27 +1,28 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/yU5ebinTcIM
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/you/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/Denis2296/submission3/blob/main/Team%205%20concept%20map.drawio.pdf
 Native/original format: 
-https://draw.io/...
+https://github.com/Denis2296/submission3/blob/main/Team-5%20concept%20map.drawio.xml
 
 Name, Author, Edition, year, and publisher of the Book:
-Speech and Language Processing
-Jurafsky
-3rd edition
+Understanding machine learning
+Shai-Shalev and Shai-Ben
+1st edition
 2014
-Pearson
+Cambridge University press
 
 Link to the book:
-https://amazon.com/...
+https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/copy.html
 
 Link to the book chapter:
-https://books.google.com/books...
+Book chapter and name
+19-Nearest-neighbors
 
 Group Number:
-0
+5
 
 Group Members:
 12345678 Name A
